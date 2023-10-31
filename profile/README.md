@@ -1,32 +1,35 @@
 # Meet Thesio
-
-Our teams are specialised in conceiving, developing and optimising digital solutions.
+As a Digital Software Agency our teams are specialised in 
+ideating, developing and optimising digital solutions for 
+innovative clients.
 
 ![image](https://user-images.githubusercontent.com/639906/163953237-116ba956-31c0-4c36-bf35-26b1791cdde9.png)
 
-### Digital Software Agency
-For more than 10 years, we have been helping the best companies with software challenges, platform integrations and ecommerce solutions.
-With our roots in secondment, we have made a transition in recent years to working on projects as a digital software agency. 
-When working with us, you always get an honest story. Because that is a key success factor, which is strangely enough often lacking.
+### Cloud-native development
+When standard software solutions fall short, we take action. 
+We create cloud-based software that fits digital strategies 
+and meets client's needs. Together, through a tightly 
+coordinated process. No compromises, but a tailor-made solution.
 
-### We specialise in customised applications
-We specialise in specific tech stacks, with which we build your custom software in modern technology.
+### Agile client teams
+Our multi-disciplinary development teams are focused on responding 
+quickly and efficiently to changes. Based on business goals, we 
+create a digital roadmap together. With that focus, we continuously 
+build software that delivers value for unique businesses.
 
-### We build innovative ecommerce solutions
-These solutions are very diverse, innovative and always based on the BigCommerce platform.
+### Design driven
+Thanks to our expertise in UX/UI design and product strategy, 
+we create digital experiences that are intuitive and attractive. 
+We look beyond technology and put the end user on a pedestal. 
+No complexity, just user-friendliness.
 
-### We develop customised integrations
-We love complexity and have a track record with integrations in PSD2, payments, ticketing, ecommerce and loyalty.
+### Innovative technology
+We rely on modern proven technology, but we also like to keep
+up to date with the latest tech and the developments of tomorrow. 
+Not to innovate aimlessly, but to provide the best 
+possible user experience.
 
 ### We are hiring!
-
-* [DevOps engineer](https://www.thesio.eu/vacatures/devops-engineer-2)
-* [Fullstack developer (Node.js)](https://www.thesio.eu/vacatures/fullstack-developer-node-js) 
+* [Technical Lead](https://www.thesio.eu/vacatures/technical-lead)
+* [Fullstack developer (Javascript)](https://www.thesio.eu/vacatures/fullstack-developer-javascript)
 * [Fullstack developer (.NET)](https://www.thesio.eu/vacatures/fullstack-developer-net)
-* [UX designer](https://www.thesio.eu/vacatures/ux-designer)
-* [Sales Manager (new business)](https://www.thesio.eu/vacatures/sales-manager-new-business)
-* [Test (automation) engineer](https://www.thesio.eu/vacatures/test-automation-engineer)
-* [Stagiair DevOps Engineer](https://www.thesio.eu/vacatures/stagiair-devops-engineer)
-* [New Business Developer](https://www.thesio.eu/vacatures/new-business-developer)
-* [Ecommerce web developer](https://www.thesio.eu/vacatures/e-commerce-web-developer)
-* [Product Owner](https://www.thesio.eu/vacatures/product-owner)
