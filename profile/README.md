@@ -37,7 +37,7 @@ possible user experience.
 ## We are hiring!
 
 <!-- JOB-LIST:START -->
-* [Technical Lead](https://www.thesio.eu/vacatures/technical-lead)
-* [Fullstack developer (Javascript)](https://www.thesio.eu/vacatures/fullstack-developer-javascript)
-* [Fullstack developer (.NET)](https://www.thesio.eu/vacatures/fullstack-developer-net)
+- [Technical Lead](https://werkenbij.thesio.eu/technical-lead)
+- [Software Engineer .NET](https://werkenbij.thesio.eu/software-engineer-net)
+- [Software Engineer Javascript](https://werkenbij.thesio.eu/software-engineer-javascript)
 <!-- JOB-LIST:END -->
