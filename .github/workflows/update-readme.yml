@@ -2,9 +2,9 @@ name: Update README
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0 12 * * 1-5'
   workflow_dispatch:
 jobs:
   update-readme-with-jobs:
