@@ -1,0 +1,22 @@
+name: Update README
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '30 * * * *'
+  workflow_dispatch:
+jobs:
+  update-readme-with-jobs:
+    name: Update README with latest jobs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "JOB-LIST"
+          commit_message: "Updated with the latest jobs"
+          committer_email: "jobs-post-bot@thesio.eu"
+          feed_list: "https://feed.homerun.co/thesio-debilt"
+          readme_path: "profile/README.md"
+          max_post_count: 5
