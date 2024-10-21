@@ -39,5 +39,4 @@ possible user experience.
 <!-- JOB-LIST:START -->
 - [Sales Executive &lpar;starter&rpar;](https://werkenbij.thesio.eu/sales-executive-starter)
 - [Technical Lead](https://werkenbij.thesio.eu/technical-lead)
-- [Software Engineer Javascript](https://werkenbij.thesio.eu/software-engineer-javascript)
 <!-- JOB-LIST:END -->
