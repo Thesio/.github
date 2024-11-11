@@ -37,6 +37,6 @@ possible user experience.
 ## We are hiring!
 
 <!-- JOB-LIST:START -->
-- [Sales Executive &lpar;starter&rpar;](https://werkenbij.thesio.eu/sales-executive-starter)
-- [Technical Lead](https://werkenbij.thesio.eu/technical-lead)
+- [JavaScript Software Engineer](https://werkenbij.thesio.eu/javascript-software-engineer)
+- [Technical Lead](https://werkenbij.thesio.eu/technical-lead-nl)
 <!-- JOB-LIST:END -->
