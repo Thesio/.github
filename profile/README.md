@@ -37,6 +37,6 @@ possible user experience.
 ## We are hiring!
 
 <!-- JOB-LIST:START -->
-- [JavaScript Software Engineer](https://werkenbij.thesio.eu/javascript-software-engineer)
+- [Office Manager](https://werkenbij.thesio.eu/office-manager-utrecht)
 - [Technical Lead](https://werkenbij.thesio.eu/technical-lead-nl)
 <!-- JOB-LIST:END -->
